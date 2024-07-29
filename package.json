@@ -1,0 +1,16 @@
+{
+  "name": "youtube_clone_chai_aur_code",
+  "version": "1.0.0",
+  "description": "this is youtube clone by chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "backend"
+  ],
+  "author": "Vishal Gupta",
+  "license": "ISC"
+}
